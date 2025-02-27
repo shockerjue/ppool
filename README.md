@@ -3,7 +3,14 @@ process pool
 
 
 ### build&install
+```
 python3 setup.py sdist bdist_wheel
+
+cd dist
+
+pip3 install ppool-0.0.1-py3-none-any.whl
+
+```
 
 ### demo
 ```
