@@ -7,7 +7,7 @@ from setuptools import setup,find_packages
 setup(name='ppool',
       version='0.0.1',
       description='process pool lib!',
-      author='hello',
+      author='wenhai.zhou',
       author_email='shockerjue@gmail.com',
       requires=[], # Define which modules you depend on
       packages=find_packages(), # The system automatically starts looking for packages from the current directory
